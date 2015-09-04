@@ -1,0 +1,5 @@
+repo: 45eff22199974f85fd96138d25510f4660aba5a1
+node: 07bfad12ceb6308c05ebbc539dcd61689a57defd
+branch: py3k
+latesttag: release-2.6.0
+latesttagdistance: 414
